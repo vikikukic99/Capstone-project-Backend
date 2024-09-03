@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the backend code for the Capstone Project. The backend is built using [your tech stack, e.g., Node.js, Express, MongoDB], and it handles all the server-side logic, database interactions, and API services for the application.
+This repository contains the backend code for the Capstone Project. The backend is built using [Node.js, Express, MongoDB], and it handles all the server-side logic, database interactions, and API services for the application.
 
 ## Features
 
@@ -21,7 +21,6 @@ Before running the project, ensure you have the following installed:
 - Node.js (vX.X.X)
 - npm (vX.X.X) or yarn
 - MongoDB (if using a local database)
-- [Any other prerequisites]
 
 ### Installation
 
